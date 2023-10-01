@@ -1,0 +1,36 @@
+{
+	"initialSlug": "001",
+	"planetPath": "/planet.webm",
+	"animate": true,
+	"defaultTitle": "MSMC |",
+	"icon": "/faction-logos/msmc.svg",
+	"header": {
+		"planet": "Sparr",
+		"year": "5016u",
+		"system": "Ardennes-8",
+		"gate": "Ural-Ouanoukrim",
+		"ring": "Ural-Line",
+		"headerTitle": "Mirrorsmoke",
+		"headerSubtitle": "Mercenary Company",
+		"subheaderTitle": "421st Detachment",
+		"subheaderSubtitle": "'Monsters of God'"
+	},
+	"pilotSpecialInfo": {
+		"AEGIS": {
+			"age": "N/A",
+			"pob": "Astropolitan"
+		},
+		"AVALANCHE": {
+			"age": "32u",
+			"pob": "Kalte Ödnis"
+		},
+		"C.U.R.S.E": {
+			"age": "N/A",
+			"pob": "Shraa"
+		},
+		"GROTENRITTER": {
+			"age": "27u",
+			"pob": "Carina"
+		}
+	}
+}
